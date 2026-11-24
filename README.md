@@ -49,8 +49,6 @@ Usámos Excel na consulta e verificação dos dados, Python na preparação dos 
 2. Se for necessário atualizar os dados, ajustar no Power Query os caminhos para os ficheiros em `dados/`.
 3. Explorar as páginas e os filtros do relatório.
 
-Também está disponível um [resumo do dashboard em PDF](docs/CESAE_Team_D_Analise_Dashboard_Satisfacao_Formandos.pdf).
-
 ## Estrutura do repositório
 
 ```text
@@ -58,7 +56,7 @@ Também está disponível um [resumo do dashboard em PDF](docs/CESAE_Team_D_Anal
 ├── codigo/       # ficheiros de apoio à análise
 ├── dados/        # dados sintéticos usados pelo dashboard
 ├── dashboard/    # ficheiro Power BI
-└── docs/         # PDF, apresentação e imagens do dashboard
+└── docs/imagens/ # capturas do dashboard usadas neste README
 ```
 
 ## Equipa
